@@ -44,7 +44,7 @@ The testbench (`led_peripheral_tb.v`) verifies peripheral functionality. Simulat
 
 ### Simulation Waveform
 
-![Simulation Waveform](simulation_waveform.png)
+![Simulation Waveform](simulation.png)
 
 The simulation demonstrates:
 - **Reset Phase**: All registers initialize to 0
